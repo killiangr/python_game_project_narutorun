@@ -1,0 +1,3 @@
+dans un projet, mettre le dossier "assets" et les différents fichier .py
+ne pas oublier d'importer arcade si pas déjà fait.
+si ça marche pas : clic droit sur le projet -> Open in Terminal -> écrire "python -m pip install -U --force-reinstall pip"
